@@ -1,5 +1,3 @@
-# Email-Spam-Classifier
-
 # Email Spam Classifier 📧🚫
 An Email Spam Classifier is a machine learning project designed to identify and filter spam emails from legitimate ones. This project leverages natural language processing (NLP) techniques and classification algorithms to build a predictive model that accurately detects spam messages.
 
